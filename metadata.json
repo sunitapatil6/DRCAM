@@ -1,0 +1,6 @@
+{
+  "name": "DRCAM - Deep Reinforced Cognitive Analytics Model",
+  "description": "Implementation of DRCAM research paper for multi-modal early detection and prediction of cognitive skill impairment levels (Normal, Mild, Moderate, Severe), longitudinal TCN forecasting, and DQN interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
